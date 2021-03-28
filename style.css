@@ -1,0 +1,30 @@
+body {
+    font-family:'Impact' ,Impact;
+    font-size: 150%;
+    text-align: center;
+    margin: 110px 150px;
+    background-color:black;
+    
+}
+.logo  {
+    position: absolute;
+    top: -30px;
+    right: 550px;
+}
+
+
+
+ h1 {
+     color: rgb(44, 41, 41);
+     
+ }
+
+ a {
+    margin: 0 3px;
+    border-radius: 10px;
+    cursor: pointer;
+    top: 1050px;
+    margin :rgb(228, 6, 6) ;
+    
+  }
+
